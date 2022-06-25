@@ -1,5 +1,7 @@
 # TaskManager
 
+# Stage #4.2.10
+
 HTML elements, attributes, and properties
 CSS class selectors
 JavaScript objects
